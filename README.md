@@ -1,5 +1,5 @@
 # Web-Automation-KasirDemo
-### Dengan Penggunaan Page Object Model
+### Dengan Penggunaan Page Object Model pada Automation Test
 
 kasirAja sebuah sistem POS 
 
