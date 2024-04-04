@@ -1,4 +1,5 @@
 # Web-Automation-KasirDemo
+### Dengan Penggunaan Page Object Model
 
 kasirAja sebuah sistem POS 
 
